@@ -7,3 +7,7 @@
 /build
 /captures
 .externalNativeBuild
+
+# firebase 보안관련 파일
+google-services.json
+GoogleKey.kt

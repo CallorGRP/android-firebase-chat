@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "551535361599",
-    "firebase_url": "https://fir-example-14e4e.firebaseio.com",
-    "project_id": "fir-example-14e4e",
-    "storage_bucket": "fir-example-14e4e.appspot.com"
+    "project_number": "71385185536",
+    "firebase_url": "https://fir-project-5759b.firebaseio.com",
+    "project_id": "fir-project-5759b",
+    "storage_bucket": "fir-project-5759b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:551535361599:android:229c8e16c743e427",
+        "mobilesdk_app_id": "1:71385185536:android:3ee85e0b2548bf9a",
         "android_client_info": {
-          "package_name": "com.anhana.firebaseexample"
+          "package_name": "com.callor.firebaseexample"
         }
       },
       "oauth_client": [
         {
-          "client_id": "551535361599-1h7pohav4d02bn23o67oj821nn2p9r1b.apps.googleusercontent.com",
+          "client_id": "71385185536-u9lisn9ta632l7ld592u7et45rpitrrm.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.anhana.firebaseexample",
-            "certificate_hash": "7E6F4FB12C2FAB2A750E4A17A8A1DF693FA055A4"
+            "package_name": "com.callor.firebaseexample",
+            "certificate_hash": "cdabcf4025747579852c122a9074a4e5b05c9f68"
           }
         },
         {
-          "client_id": "551535361599-un3h645nd63f59f2h0m4qi8qft7gbvo9.apps.googleusercontent.com",
+          "client_id": "71385185536-lp72p1cud1kgvdi4btg1t2rboh743hbb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBPx3-xi9UyomGeyAyYGegvGy0dRzvYpmo"
+          "current_key": "AIzaSyBndMESrDlUk_4-x5obK2lVaC-pMQMito8"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "551535361599-un3h645nd63f59f2h0m4qi8qft7gbvo9.apps.googleusercontent.com",
+              "client_id": "71385185536-lp72p1cud1kgvdi4btg1t2rboh743hbb.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

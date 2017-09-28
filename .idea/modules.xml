@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirebaseExample.iml" filepath="$PROJECT_DIR$/FirebaseExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-firebase-chat.iml" filepath="$PROJECT_DIR$/android-firebase-chat.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FirebaseExample</string>
+    <string name="app_name">FirebaseChat</string>
+    <string name="app_title">FireBase 채팅서비스</string>
 </resources>
